@@ -4,7 +4,7 @@
 
 ![Stack](./assets/stack.svg?v=2)
 
-![ID](./assets/id-dashboard.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=2)
 
 ## 🚀 Projects
 
